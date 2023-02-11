@@ -1,0 +1,21 @@
+.hbot{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    padding: 9px;
+
+}
+.hbot>a{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    text-decoration: none;
+    color: #454950;
+    transition: .3s;
+}
+.hbot>a:hover{
+    color: #171B24;
+}
